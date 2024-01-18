@@ -1,31 +1,45 @@
-# HairSwift
+## Présentation de HairSwift 💈
 
-Bienvenue dans le projet HairSwift ! Ce projet a été développé dans le cadre d'un projet scolaire, visant à découvrir le langage Go (Golang) tout en encourageant les développeurs front-end à explorer les technologies back-end.
-
-## Objectif du Projet
-
-L'objectif principal de HairSwift est de créer une application de gestion de salon de coiffure en utilisant les technologies suivantes :
-- Front-end : React avec Tailwind CSS
-- Back-end : Go (Golang)
-
-Le projet vise à offrir une expérience pratique aux développeurs front-end en les incitant à explorer le développement back-end avec le langage Go, réputé pour sa performance, sa simplicité et sa facilité de déploiement.
-
-## Installation
-
-### Front-end (React avec Tailwind CSS)
-
-1. Cloner le projet :
-   ```bash
-   git clone https://github.com/votre-utilisateur/hairswift.git
-   cd hairswift
-
-2. Installer les dépendances :
-        npm install
-
-3. Démarrer l'application React :
-        npm start
+HairSwift est un projet scolaire conçu pour explorer les capacités de Go (Golang) en développement backend, tout en encourageant les développeurs frontend à se plonger dans les technologies backend. 
+L'application vise à gérer efficacement un salon de coiffure.
 
 
-### Back-end (GO) :
-1. Démarrer l'application GO:
-        go run main.go
+## ❔ Fonctionnement
+
+Cette application exploite les technologies suivantes :
+
+🚀 [React](https://react.dev/) et [Tailwind CSS](https://tailwindcss.com/) pour créer une interface utilisateur réactive et élégante.
+
+🛠 [Go](https://go.dev/) pour un développement backend robuste et efficace.
+
+## 🖥️ Développement
+Suivez ces étapes pour configurer et exécuter le projet HairSwift en local :
+
+   1. Installer [Node.js](https://nodejs.org/en) :
+
+Assurez-vous d'avoir une version récente de Node.js installée.
+
+
+   2. Cloner le répertoire :
+ ```
+git clone https://github.com/N95Ryan/hairswift.git
+cd hairswift
+```
+
+3. Installer les dépendances :
+```
+npm install
+```
+
+4. Démarrer l'application React :
+```
+npm start
+ ```
+5. Explorer le Backend avec Go :
+   Découvrez les fonctionnalités backend écrites en Go en explorant le fichier `main.go`.
+
+## 👥 Auteurs
+- [Ryan PINA-SILASSE](https://github.com/N95Ryan)
+- [Nathan PINARD](https://github.com/YOUGBOY95)
+- [Anne-Catherine MICHAUD](https://github.com/annemhd)
+
