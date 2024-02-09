@@ -4,7 +4,7 @@ HairSwift est un projet scolaire conçu pour explorer les capacités de Go (Gola
 L'application vise à gérer efficacement un salon de coiffure.
 
 
-## ❔ Fonctionnement
+## Fonctionnement ❔
 
 Cette application exploite les technologies suivantes :
 
@@ -42,4 +42,3 @@ npm start
 - [Ryan PINA-SILASSE](https://github.com/N95Ryan)
 - [Nathan PINARD](https://github.com/YOUGBOY95)
 - [Anne-Catherine MICHAUD](https://github.com/annemhd)
-
