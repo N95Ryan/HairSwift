@@ -1,18 +1,27 @@
-## Présentation de HairSwift 💈
+# Présentation de HairSwift 💈
 
 HairSwift est un projet scolaire conçu pour explorer les capacités de Go (Golang) en développement backend, tout en encourageant les développeurs frontend à se plonger dans les technologies backend. 
 L'application vise à gérer efficacement un salon de coiffure.
 
 
-## Fonctionnement ❔
+# Stack 🖥️
 
-Cette application exploite les technologies suivantes :
+Voici les technologies utilisées au sein de ce projet :
 
-🚀 [React](https://react.dev/) et [Tailwind CSS](https://tailwindcss.com/) pour créer une interface utilisateur réactive et élégante.
+- ### Développement Front-end avec React et Tailwind 🚀
+ 
+L'aspect front-end de notre application est construit autour de React, assurant une expérience utilisateur fluide et réactive.
+Pour le stylage, nous avons opté pour Tailwind, exploitant ses classes utilitaires afin de simplifier le processus de design et d'obtenir une interface élégante.
 
-🛠 [Go](https://go.dev/) pour un développement backend robuste et efficace.
 
-## 🖥️ Développement
+- ### Développement Back-end avec Go 🛠
+ 
+Le backend de notre application est développé en utilisant Go, garantissant une robustesse et une efficacité optimales dans le traitement des requêtes serveur.
+Go, grâce à sa syntaxe concise et ses performances élevées, s'impose comme le choix idéal pour assurer la fiabilité de notre infrastructure côté serveur.
+
+
+# Installation et démarrage 📋
+
 Suivez ces étapes pour configurer et exécuter le projet HairSwift en local :
 
    1. Installer [Node.js](https://nodejs.org/en) :
@@ -38,7 +47,7 @@ npm start
 5. Explorer le Backend avec Go :
    Découvrez les fonctionnalités backend écrites en Go en explorant le fichier `main.go`.
 
-## 👥 Auteurs
+# 👥 Auteurs
 - [Ryan PINA-SILASSE](https://github.com/N95Ryan)
 - [Nathan PINARD](https://github.com/YOUGBOY95)
 - [Anne-Catherine MICHAUD](https://github.com/annemhd)
