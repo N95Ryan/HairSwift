@@ -2,6 +2,7 @@ import React from "react";
 import background from "./images/background.jpg"; // Importez l'image de fond
 import "./App.css";
 import Overlay from "./components/overlay/overlay";
+import Navbar from "./components/navbar";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         justifyContent: "center",
       }}
     >
+      <Navbar />
       <Overlay />
     </div>
     </> 
