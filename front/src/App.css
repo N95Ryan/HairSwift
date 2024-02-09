@@ -36,19 +36,9 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: blur(2px); /* Réduire la valeur du flou */
+  filter: blur(10px); /* Augmenter la valeur du flou */
   z-index: -1;
 }
-.overlay {
-  background-color: rgba(0, 0, 0, 0.5);
-  height: 100%;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
