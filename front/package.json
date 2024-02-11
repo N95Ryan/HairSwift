@@ -21,8 +21,8 @@
     },
     "eslintConfig": {
         "extends": [
-            "react-app",
-            "react-app/jest"
+            "eslint:recommended",
+            "plugin:react/recommended"
         ]
     },
     "browserslist": {
@@ -39,9 +39,7 @@
     },
     "devDependencies": {
         "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-        "babel-eslint": "^10.1.0",
         "eslint": "^8.56.0",
-        "eslint-config-react-app": "6",
         "eslint-plugin-react": "^7.33.2",
         "tailwindcss": "^3.4.1"
     }
