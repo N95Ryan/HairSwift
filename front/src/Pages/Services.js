@@ -3,7 +3,7 @@ import React from 'react';
 const Services = () => {
     return (
         <div className="p-10">
-            <h1 className="text-4xl mb-10  text-white font-light ">Chez HairSwift, nous offrons</h1>
+            <h1 className="text-4xl mb-10 text-white font-bold ">Chez HairSwift, nous offrons</h1>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
                 <div className="border rounded p-5">
                     <h2 className="text-2xl mb-4">Coupe de cheveux</h2>
