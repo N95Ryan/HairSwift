@@ -15,8 +15,7 @@ function Navbar() {
         </Link>
         <div className="flex justify-around text-lg font-light lg:flex-grow font-semibold">
             <Link to="/services" className={`nav-link ${isLoginPage ? 'text-black' : 'text-white'}`}>Nos services</Link>
-            <Link to="/about" className={`nav-link ${isLoginPage ? 'text-black' : 'text-white'}`}>Réserver</Link>
-            <Link to="/contact" className={`nav-link ${isLoginPage ? 'text-black' : 'text-white'}`}>Contact</Link>
+            <Link to="/reservation" className={`nav-link ${isLoginPage ? 'text-black' : 'text-white'}`}>Réserver</Link>
         </div>
         <Link to="/login" className="bg-zinc-800 hover:bg-zinc-900 text-white font-semibold py-2 px-4 rounded">Se connecter</Link>
       </div>

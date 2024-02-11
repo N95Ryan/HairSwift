@@ -5,6 +5,7 @@ import "./App.css";
 import Navbar from "./components/navbar";
 import Login from "./Pages/Login"; // Importez la page de connexion
 import Services from "./Pages/Services"; // Importez la page de services
+import Reservation from "./Pages/Reservation";
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
           {/* Route pour la page de connexion */}
           <Route path="/login" element={<LoginWithoutBackground />} />
           <Route path="/services" element={<Services />} />
+          <Route path="reservation" element={<Reservation />} />
         </Routes>
       </div>
     </Router>
