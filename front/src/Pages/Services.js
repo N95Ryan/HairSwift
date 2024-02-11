@@ -15,7 +15,7 @@ const Services = () => {
                 </div>
                 <div className="border rounded p-5 bg-white text-black font-semibold">
                     <h2 className="text-black text-2xl mb-4 font-semibold">Coiffure</h2>
-                    <p className='font-semibold'>Que vous ayez besoin d'une coiffure pour un événement spécial ou simplement pour changer de look, nous avons ce qu'il vous faut.</p>
+                    <p className='font-semibold'>Que vous ayez besoin d&apos;une coiffure pour un événement spécial ou simplement pour changer de look, nous avons ce qu&apos;il vous faut.</p>
                 </div>
             </div>
         </div>
